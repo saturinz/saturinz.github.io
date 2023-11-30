@@ -47,4 +47,15 @@ of Peñafrancia. It is held every third Sunday of September in Naga City, Camari
 📧 **olpparish310@gmail.com**
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-<Spotify link= "https://open.spotify.com/embed/playlist/37i9dQZF1DX0Yxoavh5qJV?utm_source=generator"
+<div class="embed-spotify-list"> 
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX0Yxoavh5qJV?utm_source=generator" 
+  width="100%" 
+  height="352" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; c
+  lipboard-write; 
+  encrypted-media; f
+  ullscreen; picture-in-picture" 
+  loading="lazy"></iframe>
+
