@@ -12,6 +12,7 @@ The parish church is also the location of the Plaza Miguel Robles de Covarrubias
 procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2vcnN4rPsM4?si=KIhOkItmcZMQt8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 *Clip: History of the Lady of Penafrancia*
+
 ### Schedule of Masses
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
