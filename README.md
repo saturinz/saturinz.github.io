@@ -2,7 +2,7 @@
 Flora, Princess Phoebe Kate
 # Our Lady of Peñafrancia
 ![Facade](https://1.bp.blogspot.com/-
-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade")
+IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade") 
 *Our Lady of Peñafrancia Church Facade*
 
 Our Lady of Peñafrancia Shrine is a Roman Catholic church in the Philippines, located in Naga City. It is
