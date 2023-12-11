@@ -10,7 +10,9 @@ He released his second studio album, Case Study 01, in June 2019. In March 2021,
 Daniel released his third studio album NEVER ENOUGH in April of 2023 as his first release under label, Republic Records..
 
 Career
+
 ![Facade](https://upload.wikimedia.org/wikipedia/en/b/b9/Freudian_by_Daniel_Caesar.jpg)
+
 *Freudian Album*
 
 **Freudian** is the debut studio album by Canadian singer and songwriter Daniel Caesar. It was released independently on August 25, 2017, by Golden Child Recordings, with distribution from TuneCore. It includes guest appearances from Kali Uchis, H.E.R., Syd, Charlotte Day Wilson and Sean Leon. 
