@@ -11,6 +11,8 @@ Daniel released his third studio album NEVER ENOUGH in April of 2023 as his firs
 
 Career
 ![Facade](https://upload.wikimedia.org/wikipedia/en/b/b9/Freudian_by_Daniel_Caesar.jpg)
+*Freudian Album*
+
 **Freudian** is the debut studio album by Canadian singer and songwriter Daniel Caesar. It was released independently on August 25, 2017, by Golden Child Recordings, with distribution from TuneCore. It includes guest appearances from Kali Uchis, H.E.R., Syd, Charlotte Day Wilson and Sean Leon. 
 Production derives from Caesar, Matthew Burnett, Jordan Evans, BadBadNotGood, Alex Ernewein, Riley Bell and Jordon Manswell. 
 The album succeeds the 2015 EP Pilgrim's Paradise. The album was nominated for a Grammy in the Best R&B Album Category, alongside a nomination for Best R&B Performance with "Get You" at the 60th Annual Grammy Awards, with "Best Part" with H.E.R. winning Best R&B Performance at the 61st Annual Grammy Awards.
