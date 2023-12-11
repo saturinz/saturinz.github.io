@@ -15,7 +15,7 @@ Career
 Production derives from Caesar, Matthew Burnett, Jordan Evans, BadBadNotGood, Alex Ernewein, Riley Bell and Jordon Manswell. 
 The album succeeds the 2015 EP Pilgrim's Paradise. The album was nominated for a Grammy in the Best R&B Album Category, alongside a nomination for Best R&B Performance with "Get You" at the 60th Annual Grammy Awards, with "Best Part" with H.E.R. winning Best R&B Performance at the 61st Annual Grammy Awards.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Mza2sr6tPhy6jjI3HB9fW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/20wkVLutqVOYrc0kxFs7rA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
