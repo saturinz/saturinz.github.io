@@ -35,7 +35,7 @@ On February 8, 2022, in an interview with Complex Canada of his home country, Ca
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/20wkVLutqVOYrc0kxFs7rA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[title](<iframe width="560" height="315" src="https://www.youtube.com/embed/AYzxqFvIA4g?si=nzGx7arVbDNs8aLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
 
 
 
